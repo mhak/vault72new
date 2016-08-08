@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{CF1DC9FE-5424-4C8E-B380-A1C64BCAAFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-08T22:31:50.6184947Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launchpad",
+    "itemPath": "/sitecore/client/Applications/Launchpad",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "7.2.140228",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
