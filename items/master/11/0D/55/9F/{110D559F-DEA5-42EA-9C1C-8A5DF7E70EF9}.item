@@ -316,7 +316,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: ab1f5cb1-bce3-448e-8487-555d734784a9
+revision: 7833896b-668c-47ca-b344-ccb126a6e8e1
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -324,7 +324,7 @@ name: Title
 key: title
 content-length: 10
 
-Sitecore 1
+Sitecore 2
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -396,14 +396,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ab1f5cb1-bce3-448e-8487-555d734784a9
+7833896b-668c-47ca-b344-ccb126a6e8e1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160808T160114:636062688748864051
+20160808T160205:636062689251552803
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
