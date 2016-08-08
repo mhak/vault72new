@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{6A69E0CF-0761-434C-80C9-CB1AFC48E908}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-08T22:31:50.6924989Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buttons",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "7.2.140228",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
