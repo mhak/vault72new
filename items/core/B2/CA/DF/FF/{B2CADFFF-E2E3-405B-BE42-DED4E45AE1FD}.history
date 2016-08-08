@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{B2CADFFF-E2E3-405B-BE42-DED4E45AE1FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-08T22:31:50.6674975Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "7.2.140228",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
