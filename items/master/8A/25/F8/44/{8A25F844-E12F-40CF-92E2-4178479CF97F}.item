@@ -12,15 +12,15 @@ templatekey: New template
 ----version----
 language: en
 version: 1
-revision: 4f60784d-ecb0-4200-8015-667f3fcd0c9a
+revision: 440bd842-306e-4737-ba05-7416983c76a5
 
 ----field----
 field: {D597D003-5ED3-4EAD-8FFA-6A065B6A7B19}
 name: droplink
 key: droplink
-content-length: 0
+content-length: 16
 
-
+New New template
 ----field----
 field: {CE73341B-B2F4-4667-9821-97398B102B10}
 name: droplist
@@ -55,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4f60784d-ecb0-4200-8015-667f3fcd0c9a
+440bd842-306e-4737-ba05-7416983c76a5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160809T144142:636063505027649656
+20160809T144222:636063505425112390
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
