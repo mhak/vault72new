@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{8A25F844-E12F-40CF-92E2-4178479CF97F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-09T21:41:42.7759663Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New New template",
+    "itemPath": "/sitecore/content/Home/New New template",
+    "template": "New template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "7.2.140228",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
