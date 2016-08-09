@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{201C7A0F-87F0-421A-8719-CD98521A47EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-09T22:37:34.2036570Z",
+    "label": "Renamed test12345 to test12345a",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test12345a",
+    "itemPath": "/sitecore/templates/New template/data/test12345a",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "7.2.140228",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
