@@ -12,7 +12,7 @@ templatekey: New template
 ----version----
 language: en
 version: 1
-revision: 440bd842-306e-4737-ba05-7416983c76a5
+revision: 186d2a40-ab05-490d-a1a2-06c7251a3132
 
 ----field----
 field: {D597D003-5ED3-4EAD-8FFA-6A065B6A7B19}
@@ -25,9 +25,9 @@ New New template
 field: {CE73341B-B2F4-4667-9821-97398B102B10}
 name: droplist
 key: droplist
-content-length: 38
+content-length: 0
 
-{8A25F844-E12F-40CF-92E2-4178479CF97F}
+
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -55,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-440bd842-306e-4737-ba05-7416983c76a5
+186d2a40-ab05-490d-a1a2-06c7251a3132
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160809T144222:636063505425112390
+20160809T144238:636063505586601627
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
