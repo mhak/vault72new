@@ -1,0 +1,9 @@
+{
+  "itemName": "XCore Tools",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+  "childIds": [
+    "{E1135634-F83F-4E20-91EA-49B37EE1C413}"
+  ]
+}
