@@ -20,9 +20,9 @@ network/32x32/safe.png
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 24
+content-length: 22
 
-Software/32x32/debug.png
+network/32x32/safe.png
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -47,7 +47,7 @@ content-length: 155
 ----version----
 language: en
 version: 1
-revision: fcfbd7a8-dcac-4f9d-a7c0-569f0deb59fa
+revision: 316a99c5-4cda-4610-b694-18eafaeb085d
 
 ----field----
 field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fcfbd7a8-dcac-4f9d-a7c0-569f0deb59fa
+316a99c5-4cda-4610-b694-18eafaeb085d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T143059:636097194596830787
+20160917T144000:636097200008550320
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
