@@ -2,9 +2,9 @@
 version: 1
 id: {E10D6C33-F2FA-4414-A5A6-24DA37E2F1F0}
 database: core
-path: /sitecore/layout/Layouts/Vault/Schedule Task Helper
+path: /sitecore/layout/Layouts/Vault/Deleted Items
 parent: {6086F68B-233D-4818-9A44-C91F563A9B9D}
-name: Schedule Task Helper
+name: Deleted Items
 master: {00000000-0000-0000-0000-000000000000}
 template: {1163DA83-B2EF-4381-BF09-B2FF714B1B3F}
 templatekey: Xml layout
@@ -19,7 +19,7 @@ XCoreScheduledTaskHelper
 ----version----
 language: en
 version: 1
-revision: dfe7ec73-8d4f-43c7-a14f-b7c89e2ee543
+revision: 7d8dfe57-5d28-44f1-a2d2-cf30507f1bfb
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dfe7ec73-8d4f-43c7-a14f-b7c89e2ee543
+7d8dfe57-5d28-44f1-a2d2-cf30507f1bfb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20130207T213902:634958699421609303
+20160917T143740:636097198600119762
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
