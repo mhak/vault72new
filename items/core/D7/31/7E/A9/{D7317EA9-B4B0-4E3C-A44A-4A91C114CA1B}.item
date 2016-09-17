@@ -13,9 +13,9 @@ templatekey: Folder
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 24
+content-length: 22
 
-Software/32x32/debug.png
+Network/32x32/safe.png
 ----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
 name: __Originator
@@ -33,7 +33,7 @@ content-length: 77
 ----version----
 language: en
 version: 1
-revision: 075d852e-4301-4784-97a0-6a2f78c68401
+revision: 3dd5865f-55e2-4ce2-9dec-2a242b156aee
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-075d852e-4301-4784-97a0-6a2f78c68401
+3dd5865f-55e2-4ce2-9dec-2a242b156aee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20130210T093333:634960856135292568
+20160917T142741:636097192616907542
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
