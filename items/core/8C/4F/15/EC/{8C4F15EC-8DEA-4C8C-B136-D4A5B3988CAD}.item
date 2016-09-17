@@ -2,9 +2,9 @@
 version: 1
 id: {8C4F15EC-8DEA-4C8C-B136-D4A5B3988CAD}
 database: core
-path: /sitecore/content/Documents and settings/All users/Start menu/Programs/Vault/Scheduled Task Helper
+path: /sitecore/content/Documents and settings/All users/Start menu/Programs/Vault/Deleted Items
 parent: {9A17F68C-0D9A-4D63-A1AB-CE036BE68F63}
-name: Scheduled Task Helper
+name: Deleted Items
 master: {00000000-0000-0000-0000-000000000000}
 template: {72450C9C-98C4-4117-88B7-573110C7E0C0}
 templatekey: Application shortcut
@@ -40,7 +40,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 824fdfe4-ea92-4d01-bbfd-ac6f363030d0
+revision: 021ccec5-b15c-4433-9668-ca8e1408399c
 
 ----field----
 field: {C032DB76-CC34-4F8F-BE2D-D2FB35237AAB}
@@ -76,14 +76,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-824fdfe4-ea92-4d01-bbfd-ac6f363030d0
+021ccec5-b15c-4433-9668-ca8e1408399c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T143324:636097196045113624
+20160917T143332:636097196126848299
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
