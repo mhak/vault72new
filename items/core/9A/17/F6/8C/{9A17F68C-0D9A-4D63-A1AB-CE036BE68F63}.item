@@ -13,9 +13,9 @@ templatekey: Start menu folder
 field: {092E08F3-8863-40B1-A17C-EF10351AA4F6}
 name: Icon
 key: icon
-content-length: 24
+content-length: 22
 
-Software/32x32/debug.png
+network/32x32/safe.png
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -47,15 +47,15 @@ content-length: 155
 ----version----
 language: en
 version: 1
-revision: 4bc475cb-95b0-4c88-b161-6661677807c8
+revision: fcfbd7a8-dcac-4f9d-a7c0-569f0deb59fa
 
 ----field----
 field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
 name: Display name
 key: display name
-content-length: 11
+content-length: 5
 
-XCore Tools
+Vault
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4bc475cb-95b0-4c88-b161-6661677807c8
+fcfbd7a8-dcac-4f9d-a7c0-569f0deb59fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T143030:636097194304924091
+20160917T143059:636097194596830787
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
