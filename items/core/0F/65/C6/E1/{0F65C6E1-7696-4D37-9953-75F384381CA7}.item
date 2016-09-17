@@ -69,13 +69,15 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 145
+content-length: 105
 
-<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{E1135634-F83F-4E20-91EA-49B37EE1C413}" /></r>
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{E10D6C33-F2FA-4414-A5A6-24DA37E2F1F0}" />
+</r>
 ----version----
 language: en
 version: 1
-revision: 7c86458c-b39a-4147-867a-22335d08649e
+revision: 3ee51e64-74a8-408b-bc48-5eff6dee8e71
 
 ----field----
 field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
@@ -111,14 +113,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7c86458c-b39a-4147-867a-22335d08649e
+3ee51e64-74a8-408b-bc48-5eff6dee8e71
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T143250:636097195703224069
+20160917T144034:636097200348719776
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
