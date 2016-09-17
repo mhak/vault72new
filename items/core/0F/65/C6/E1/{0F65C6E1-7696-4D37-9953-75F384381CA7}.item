@@ -50,7 +50,7 @@ name: __Icon
 key: __icon
 content-length: 30
 
-People/32x32/stopwatch_run.png
+Applications/32x32/garbage.png
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -75,7 +75,7 @@ content-length: 145
 ----version----
 language: en
 version: 1
-revision: eaee0b09-0512-4d74-bb81-091dbbf74eae
+revision: 17cabd56-6e1c-494a-886b-0e5f5c9d48e0
 
 ----field----
 field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
@@ -111,14 +111,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-eaee0b09-0512-4d74-bb81-091dbbf74eae
+17cabd56-6e1c-494a-886b-0e5f5c9d48e0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T142815:636097192959457135
+20160917T142929:636097193698849425
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
