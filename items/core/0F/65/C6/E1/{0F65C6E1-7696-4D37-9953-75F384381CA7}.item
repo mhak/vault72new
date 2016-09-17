@@ -15,7 +15,7 @@ name: Icon
 key: icon
 content-length: 30
 
-People/32x32/stopwatch_run.png
+applications/32x32/garbage.png
 ----field----
 field: {094829C2-D7A7-4C38-B025-B99FF2001B56}
 name: Disable close
@@ -75,7 +75,7 @@ content-length: 145
 ----version----
 language: en
 version: 1
-revision: 99e9deb6-0ef8-4a00-a19a-b01848b04d50
+revision: 7c86458c-b39a-4147-867a-22335d08649e
 
 ----field----
 field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
@@ -111,14 +111,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-99e9deb6-0ef8-4a00-a19a-b01848b04d50
+7c86458c-b39a-4147-867a-22335d08649e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T142938:636097193785434378
+20160917T143250:636097195703224069
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
