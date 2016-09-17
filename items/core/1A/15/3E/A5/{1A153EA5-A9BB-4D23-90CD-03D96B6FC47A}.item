@@ -1,0 +1,18 @@
+----item----
+version: 1
+id: {1A153EA5-A9BB-4D23-90CD-03D96B6FC47A}
+database: core
+path: /sitecore/client/Applications/Launch Pad/Page Settings/Shortcuts/Vault
+parent: {BF621685-BB30-48B0-9FED-95D219C30E73}
+name: Vault
+master: {2D3A619A-0FFB-4EE4-88F6-D66673049CA2}
+template: {E20487F1-5558-41F8-B92B-5B57A1491E99}
+templatekey: Speak-AppShortcut
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{76E303F1-712F-49BF-90B2-9FDBDA2299F7}
