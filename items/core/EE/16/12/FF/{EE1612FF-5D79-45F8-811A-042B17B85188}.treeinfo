@@ -1,0 +1,9 @@
+{
+  "itemName": "Sitecore on the Net",
+  "templateId": "{579BAD93-BFEF-43E0-9A2E-C3FF30B87987}",
+  "branchId": "{EF83F2F7-9CD0-474C-924D-BAFCAFB681F2}",
+  "parentId": "{68F18608-4430-407E-8D34-0B79000DFE51}",
+  "childIds": [
+    "{14FDA7E3-F04F-4009-BCCE-0233F3E0DC21}"
+  ]
+}
