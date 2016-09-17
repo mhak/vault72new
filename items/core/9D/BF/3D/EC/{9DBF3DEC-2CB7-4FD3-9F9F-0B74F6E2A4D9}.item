@@ -9,10 +9,31 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 19
+
+ScheduledTaskHelper
+----field----
+field: {5322A457-A605-4A38-A0D1-F944B7F781D9}
+name: Package version
+key: package version
+content-length: 3
+
+2.0
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 5
+
+Niket
 ----version----
 language: en
 version: 1
-revision: 1f6db696-5cb8-47ae-b4d5-2abbf26c78e5
+revision: 706ca0c7-aadb-49aa-b3e6-e91d1384c1d0
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -41,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1f6db696-5cb8-47ae-b4d5-2abbf26c78e5
+706ca0c7-aadb-49aa-b3e6-e91d1384c1d0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160917T134837:636097169175276757
+20160917T134837:636097169175486769
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
